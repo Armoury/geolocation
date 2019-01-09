@@ -1,3 +1,5 @@
 .sfdx/tools/apex.db
 .sfdx/orgs/test-zio99wtuatjr@example.com/sourcePathInfos.json
 .sfdx/orgs/test-zio99wtuatjr@example.com/sourcePathInfos.json.bak
+.sfdx/orgs/test-zio99wtuatjr@example.com/maxrevision.json
+.sfdx/orgs/test-zio99wtuatjr@example.com/sourcePathInfos.json
